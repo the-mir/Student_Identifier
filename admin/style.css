@@ -1,0 +1,24 @@
+#body{
+    background-color: cornflowerblue;
+}
+.error{
+    color: red;
+    font-style: italic;
+    font-weight: 600;
+}
+.footer-area{
+    background-color: rgb(48, 61, 100);
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+    margin-top: 20px;
+}
+.footer-area p{
+    margin: 0;
+}
+.footer-area a{
+    color: red;
+}
+.content{
+    min-height: 650px;
+}
